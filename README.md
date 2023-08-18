@@ -1,4 +1,4 @@
-# 2.3 Data Extraction and Web Scraping
+# 2.4 Data Extraction and Web Scraping
 
 ## Dependencies
 

@@ -9,10 +9,10 @@
 
 ### Q2: What is the basic structure of an HTML document?
 
-- A. <head> and <body>
-- B. <title> and <content>
-- C. <header> and <footer>
-- D. <body> and <content>
+- A. `<head>` and `<body>`
+- B. `<title>` and `<content>`
+- C. `<header>` and `<footer>`
+- D. `<body>` and `<content>`
 
 ### Q3: What is the difference between an element and a tag in HTML?
 
@@ -35,7 +35,7 @@
 - C. To style elements using CSS
 - D. To create hyperlinks
 
-### Q6: Which CSS selector targets all <table> and <td> elements?
+### Q6: Which CSS selector targets all `<table>` and `<td>` elements?
 
 - A. table, td
 - B. table td
@@ -50,7 +50,7 @@
 - D. It selects all elements that are not children of the specified parent element.
 -
 
-### Q8: What does the self-closing tag <br /> represent in HTML?
+### Q8: What does the self-closing tag `<br />` represent in HTML?
 
 - A. A line break
 - B. A paragraph
